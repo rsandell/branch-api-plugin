@@ -108,7 +108,7 @@
     <dependency>
       <groupId>org.jenkins-ci.plugins</groupId>
       <artifactId>cloudbees-folder</artifactId>
-      <version>6.16</version>
+      <version>6.973.vc9b_85a_61e4fc</version>
     </dependency>
     <!-- test dependencies -->
     <dependency>
